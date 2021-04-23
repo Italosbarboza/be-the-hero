@@ -1,7 +1,7 @@
 <h1>be-the-hero</h1> Este projeto foi feito em um curso Omnisteck com as stacks React + Node.
 
 ## Sistema
-    Esse é um sistema ONG, onde cada usuário cadastra um caso para pedir ajuda, e esses casos são mostrados ao entrar no sistema. Utiliza-se o banco sqlite para armazenamento.
+Esse é um sistema ONG, onde cada usuário cadastra um caso para pedir ajuda, e esses casos são mostrados ao entrar no sistema. Utiliza-se o banco sqlite para armazenamento.
 
 ## Pré requisitos
 
