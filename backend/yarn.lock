@@ -480,9 +480,9 @@ debug@^3.2.6:
     ms "^2.1.1"
 
 decode-uri-component@^0.2.0:
-  version "0.2.0"
-  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.0.tgz#eb3913333458775cb84cd1a1fae062106bb87545"
-  integrity sha1-6zkTMzRYd1y4TNGh+uBiEGu4dUU=
+  version "0.2.2"
+  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.2.tgz#e69dbe25d37941171dd540e024c444cd5188e1e9"
+  integrity sha512-FqUYQ+8o158GyGTrMFJms9qh3CqTKvAqgqsTnkLI8sKu0028orqBhxNMFkFen0zGyg6epACD32pjVk58ngIErQ==
 
 deep-extend@^0.6.0:
   version "0.6.0"
@@ -2234,9 +2234,9 @@ sqlite3@^4.1.1:
     request "^2.87.0"
 
 sqlite@^4.1.1:
-  version "4.0.0-beta.7"
-  resolved "https://registry.yarnpkg.com/sqlite/-/sqlite-4.0.0-beta.7.tgz#0dfc80ac457a6d95314e6ac5552a8bc14a442c02"
-  integrity sha512-gSaRaCLPuNXMw21zoJQGhGMsCHaFpYl+vwxt09EadyEEoNoEuCRpCermqXgcFEl/57EgUSN2a1KX25Zj13SU3Q==
+  version "4.1.2"
+  resolved "https://registry.yarnpkg.com/sqlite/-/sqlite-4.1.2.tgz#35643893dc1cec118c835cbab9ddbd283ffaba7d"
+  integrity sha512-FlBG51gHbux5vPjwnoqFEghNGvnTMTbHyiI09U3qFTQs9AtWuwd4i++6+WCusCXKrVdIDLzfdGekrolr3m4U4A==
 
 sshpk@^1.7.0:
   version "1.16.1"
